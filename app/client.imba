@@ -116,11 +116,11 @@ tag app
 					<section .projects>
 						<h3> 'UFOLINUX'
 						<h4>
-							<a[d:inline] target='_blank' href='https://ufolinux.tk'> 'Website |'
+							<img [d:inline size:1em] src="https://telegra.ph/file/9a5f9109dd4625a8c02d7.jpg">
+							<a[d:inline] target='_blank' href='https://ufolinux.tk'> ' Website |'
 							<a[d:inline] target='_blank' href='https://t.me/ufolinux'> ' Telegram Group |'
 							<a[d:inline] target='_blank' href='https://matrix.to/#/#ufolinux:matrix.org'> ' Matrix |'
 							<a[d:inline] target='_blank' href='https://discord.gg/y6zFg7DcjK'> ' Discord'
-						<img src="https://telegra.ph/file/9a5f9109dd4625a8c02d7.jpg" alt="W3Schools.com" width="200" height="200">
 						<p> "Ufolinux is a linux distro made from scratch with the help of Lfs and currently in build state, you can join the telegram group because i'm mostly online there"
 
 				<article .block>
