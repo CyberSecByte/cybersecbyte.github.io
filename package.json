@@ -1,0 +1,19 @@
+{
+  "name": "cybersecbyte-portfolio",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build --no-hashing server.imba"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.129"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.22"
+  },
+  "repository": "cybersecbyte",
+  "description": "My portfolio",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cybersecbyte/cybersecbyte.github.io",
+  "author": "Cybersecbyte (https://github.com/cybersecbyte)"
+}
