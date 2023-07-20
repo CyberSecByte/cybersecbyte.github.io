@@ -47,7 +47,7 @@ tag app
 							<path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8C0 11.54 2.29 14.53 5.47 15.59C5.87 15.66 6.02 15.42 6.02 15.21C6.02 15.02 6.01 14.39 6.01 13.72C4 14.09 3.48 13.23 3.32 12.78C3.23 12.55 2.84 11.84 2.5 11.65C2.22 11.5 1.82 11.13 2.49 11.12C3.12 11.11 3.57 11.7 3.72 11.94C4.44 13.15 5.59 12.81 6.05 12.6C6.12 12.08 6.33 11.73 6.56 11.53C4.78 11.33 2.92 10.64 2.92 7.58C2.92 6.71 3.23 5.99 3.74 5.43C3.66 5.23 3.38 4.41 3.82 3.31C3.82 3.31 4.49 3.1 6.02 4.13C6.66 3.95 7.34 3.86 8.02 3.86C8.7 3.86 9.38 3.95 10.02 4.13C11.55 3.09 12.22 3.31 12.22 3.31C12.66 4.41 12.38 5.23 12.3 5.43C12.81 5.99 13.12 6.7 13.12 7.58C13.12 10.65 11.25 11.33 9.47 11.53C9.76 11.78 10.01 12.26 10.01 13.01C10.01 14.08 10 14.94 10 15.21C10 15.42 10.15 15.67 10.55 15.59C13.71 14.53 16 11.53 16 8C16 3.58 12.42 0 8 0Z">
 						" GITHUB"
 
-					<a rel="noreferrer" target="_blank" href="https://t.me/cybersecbyte">
+					<a rel="noreferrer" target="_blank" href="https://t.me/cybersecbyte_xD">
 						<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
 							<g transform="matrix(3.468208 0 0 3.468208 0 -.00001)">
 								<path d="M 4.2424765,30.909596 45.462593,13.92622 c 4.068938,-1.769103 17.867948,-7.4302295 17.867948,-7.4302295 0,0 6.368772,-2.4767415 5.838042,3.5382055 -0.176911,2.476742 -1.592193,11.14534 -3.007476,20.521579 l -4.42276,27.774897 c 0,0 -0.353821,4.068935 -3.361296,4.776575 -3.007476,0.707641 -7.960967,-2.476741 -8.84552,-3.184384 -0.707641,-0.530729 -13.268278,-8.491688 -17.867947,-12.383711 -1.238373,-1.061461 -2.653656,-3.184384 0.17691,-5.661125 6.368774,-5.838037 13.97592,-13.091354 18.57559,-17.691019 2.122923,-2.122921 4.245849,-7.076405 -4.59967,-1.06146 L 20.872052,39.932013 c 0,0 -2.830567,1.769103 -8.137878,0.176911 C 7.4268631,38.516732 1.2350002,36.393811 1.2350002,36.393811 c 0,0 -4.245849,-2.653653 3.0074763,-5.484215 z">
@@ -69,7 +69,7 @@ tag app
 
 				<article .block>
 					<h2> 'Whoami'
-					<p> "I am Navjot Singh, a 21 year old, popularly known around the internet world as {<strong> 'CYBERSECBYTE'}"
+					<p> "I am Navjot Singh, popularly known around the internet world as {<strong> 'CYBERSECBYTE'}"
 
 				<article .block>
 					<h2> 'SKILLS'
@@ -87,6 +87,7 @@ tag app
 						<li> "Docker Compose"
 						<li> "Networking"
 						<li> "Server Hostings"
+						<li> "And many more!!"
 
 			<section>
 				<article .block>
@@ -105,10 +106,6 @@ tag app
 						<br>
 						<p> "You can find the opensourced repo under GNU General Public License v3.0 for telethon based bot base {<a[d:inline] href='https://github.com/turtlecommmunity/telethonbot-base'> " here"} and Pyrogram based {<a[d:inline] href='https://github.com/turtlecommmunity/pyrogrambot-base'> "here"} "
 						<br>
-						<p> "You must follow some terms and conditions before using our base in your telegram bot projects from below"
-						<br>
-						<p> "HERE ARE TERMS AND CONDITIONS FOR {<a[d:inline] href="https://github.com/turtlecommmunity/telethonbot-base#terms-and-conditions"> "TELETHON BASED BASE"} and {<a[d:inline] href='https://github.com/turtlecommmunity/pyrogrambot-base#terms-and-conditions'> "PYROGRAM BASED BASE"}"
-						<br>
 
 					<section .projects>
 						<h3> 'UFOLINUX'
@@ -119,6 +116,20 @@ tag app
 							<a[d:inline] target='_blank' href='https://matrix.to/#/#ufolinux:matrix.org'> ' Matrix |'
 							<a[d:inline] target='_blank' href='https://discord.gg/y6zFg7DcjK'> ' Discord'
 						<p> "Ufolinux is a linux distro made from scratch with the help of Lfs and currently in build state, you can join the telegram group because i'm mostly online there"
+						<br>
+
+					<section .projects>
+						<h3> 'CATWALLPAPER'
+						<p> "It is my first python package which is can be found {<a[d:inline] href='https://pypi.org/project/catwallpaper/' > "here"}"
+						<br>
+						<p> "All what it does is web scrapes random cat images with using obviously python and seamlessly sets it as your wallpaper according to your specific operating system and desktop environment preferences"
+						<br>
+
+					<section .projects>
+						<h3> 'TERMUX-MINER'
+						<p> "It serves as a facilitative tool for effortlessly compiling and installing the xmrig miner on any Android device through Termux. It streamlines the otherwise intricate process of repurposing obsolete, seemingly insignificant devices into viable, low-end mining machines. It can be found {<a[d:inline] href='https://github.com/CyberSecByte/termux-miner'> "here"}"
+						<br>
+
 
 				<article .block>
 					<h2> "EDUCATION"
@@ -127,10 +138,10 @@ tag app
 
 		<section .container .afterword>
 			<h1> 'A LITTLE ABOUT ME'
-			<p> "I live in New Delhi, India. I love to code, design, automate, listen pop & heavy metal & classical english music, pet cats and dogs, exploring nature and learning about other religions and their traditions and even their native languages, I love to live my life simple and practicing vegetarianism, and credit goes to the author {<a href='https://en.wikipedia.org/wiki/Brian_Hines'> "Brian Hines"} for his book Life is Fair and influencing my lifestyle choice and if you are eager to know about my religion, then let me tell you that I'm an omnist"
+			<p> "I reside in New Delhi, India, where my passions include coding, design, automation, as well as indulging in a diverse range of musical genres such as pop, heavy metal, and classical English music. Additionally, I derive immense joy from caring for both cats and dogs, exploring the wonders of nature, and immersing myself in the study of various religions, their traditions, and even their native languages. Simplicity governs my approach to life, and I am committed to practicing vegetarianism. I must attribute my lifestyle choices to the influential book "Life is Fair" by {<a href='https://en.wikipedia.org/wiki/Brian_Hines'> "Brian Hines"}. Furthermore, if you are curious about my religious affiliation, I identify as an omnist."
 
 		<footer .container>
-			"© 2022 {<a href='https://github.com/cybersecbyte'> "NAVJOT SINGH(CYBERSECBYTE)"} |"
+			"© 2023 {<a href='https://github.com/cybersecbyte'> "CYBERSECBYTE"} |"
 			" And Special Thanks To {<a href='https://github.com/Bohooslav' > "Bohuslav Pavlyshynets"} For Helping In This Portfolio"
 
 	css
