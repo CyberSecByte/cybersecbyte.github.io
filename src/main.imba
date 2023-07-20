@@ -110,7 +110,7 @@ tag app
 					<section .projects>
 						<h3> 'UFOLINUX'
 						<h4>
-							<img [d:inline size:1em] src="https://telegra.ph/file/9a5f9109dd4625a8c02d7.jpg">
+							<img [d:inline size:1em] src="https://raw.githubusercontent.com/CyberSecByte/cybersecbyte.github.io/master/images/ufolinux.jpg">
 							<a[d:inline] target='_blank' href='https://ufolinux.tk'> ' Website |'
 							<a[d:inline] target='_blank' href='https://t.me/ufolinux'> ' Telegram Group |'
 							<a[d:inline] target='_blank' href='https://matrix.to/#/#ufolinux:matrix.org'> ' Matrix |'
@@ -120,14 +120,14 @@ tag app
 
 					<section .projects>
 						<h3> 'CATWALLPAPER'
-						<p> "It is my first python package which is can be found {<a[d:inline] href='https://pypi.org/project/catwallpaper/' > "here"}"
+						<p> "It is my first python package which is can be found {<a[d:inline] href='https://pypi.org/project/catwallpaper/' > <strong> "here"}"
 						<br>
 						<p> "All what it does is web scrapes random cat images with using obviously python and seamlessly sets it as your wallpaper according to your specific operating system and desktop environment preferences"
 						<br>
 
 					<section .projects>
 						<h3> 'TERMUX-MINER'
-						<p> "It serves as a facilitative tool for effortlessly compiling and installing the xmrig miner on any Android device through Termux. It streamlines the otherwise intricate process of repurposing obsolete, seemingly insignificant devices into viable, low-end mining machines. It can be found {<a[d:inline] href='https://github.com/CyberSecByte/termux-miner'> "here"}"
+						<p> "It serves as a facilitative tool for effortlessly compiling and installing the xmrig miner on any Android device through Termux. It streamlines the otherwise intricate process of repurposing obsolete, seemingly insignificant devices into viable, low-end mining machines. It can be found {<a[d:inline] href='https://github.com/CyberSecByte/termux-miner'> <strong> "here"}"
 						<br>
 
 
