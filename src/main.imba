@@ -138,7 +138,7 @@ tag app
 
 		<section .container .afterword>
 			<h1> 'A LITTLE ABOUT ME'
-			<p> "I reside in New Delhi, India, where my passions include coding, design, automation, as well as indulging in a diverse range of musical genres such as pop, heavy metal, and classical English music. Additionally, I derive immense joy from caring for both cats and dogs, exploring the wonders of nature, and immersing myself in the study of various religions, their traditions, and even their native languages. Simplicity governs my approach to life, and I am committed to practicing vegetarianism. I must attribute my lifestyle choices to the influential book "Life is Fair" by {<a href='https://en.wikipedia.org/wiki/Brian_Hines'> "Brian Hines"}. Furthermore, if you are curious about my religious affiliation, I identify as an omnist."
+			<p> "I reside in New Delhi, India, where my passions include coding, design, automation, as well as indulging in a diverse range of musical genres such as pop, heavy metal, and classical English music. Additionally, I derive immense joy from caring for both cats and dogs, exploring the wonders of nature, and immersing myself in the study of various religions, their traditions, and even their native languages. Simplicity governs my approach to life, and I am committed to practicing vegetarianism. I must attribute my lifestyle choices to the influential book Life is Fair by {<a[d:inline] href='https://en.wikipedia.org/wiki/Brian_Hines'> "Brian Hines"}. Furthermore, if you are curious about my religious affiliation, I identify as an omnist."
 
 		<footer .container>
 			"© 2023 {<a href='https://github.com/cybersecbyte'> "CYBERSECBYTE"} |"
